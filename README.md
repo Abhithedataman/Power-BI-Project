@@ -58,7 +58,8 @@ Solution: Build an **internal analytics team** and implement **Power BI**.
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](Dashboard_Screenshots/dashboard_main.png)
+![Dashboard Screenshot](<img width="1213" height="731" alt="image" src="https://github.com/user-attachments/assets/e09d88f6-9ebf-408c-bc81-a5ed0e3c361f" />
+)
 
 ---
 
